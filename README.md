@@ -5,7 +5,7 @@ _Hersh Vakharia and Xiaoxiao Du_
 
 Accepted to 2024 FUZZ-IEE, Presented at 2024 WCCI in Yokohama, Japan
 
-[[`IEEEXplore`](https://ieeexplore.ieee.org/document/10611865)]
+[[`arXiv`](https://arxiv.org/abs/2409.03212)] [[`IEEEXplore`](https://ieeexplore.ieee.org/document/10611865)]
 
 ## Installation Prerequisites
 This code was tested using Python 3.10.  
