@@ -40,7 +40,7 @@ Here is a brief summary of the code structure. For detailed usage, see the docus
 ## License
 This source code is licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
 
-This product is Copyright (c) 2023 H. Vakharia and X. Du. All rights reserved.
+This product is Copyright (c) 2024 H. Vakharia and X. Du. All rights reserved.
 
 ## Citing Bi-MIChI
 If you use the Bi-MIChI fusion framework, please cite the following reference using the following BibTeX entries.  
